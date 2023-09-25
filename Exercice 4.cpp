@@ -3,6 +3,6 @@
 using namespace std;
 int main()
 {
-    ofstream monflux("C:scores.txt");
+    ofstream monflux("C:\c\scores.txt");
     return 0;
 }
